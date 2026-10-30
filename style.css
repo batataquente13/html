@@ -1,10 +1,11 @@
 body{
-    background-color: rgb(180, 128, 59);
+    background-color: rgb(226, 218, 208);
+    
    
 }
 
 h1{
-    color: rgb(224, 36, 3);
+    color: rgb(22, 21, 21);
 }
 
 .logo{
@@ -13,4 +14,10 @@ h1{
     display: inline-flex;
     
    
+}
+
+header{
+     background-color: rgb(216, 90, 16);
+    text-align: center;
+    padding: 30px;
 }
